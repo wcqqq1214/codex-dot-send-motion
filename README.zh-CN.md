@@ -12,11 +12,11 @@
 
 <p align="center">React 消息发送动效组件，inspired by Codex Dot。</p>
 
+<p align="center"><a href="https://wcqqq1214.github.io/codex-dot-send-motion/">在线演示</a></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/wcqqq1214/codex-dot-send-motion/main/docs/assets/preview.gif" width="520" alt="消息发送动效演示">
 </p>
-
-<p align="center"><a href="https://wcqqq1214.github.io/codex-dot-send-motion/">在线演示</a></p>
 
 ```sh
 npm install codex-dot-send-motion

@@ -12,11 +12,11 @@
 
 <p align="center">A React message-send animation inspired by Codex Dot.</p>
 
+<p align="center"><a href="https://wcqqq1214.github.io/codex-dot-send-motion/">Live demo</a></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/wcqqq1214/codex-dot-send-motion/main/docs/assets/preview.gif" width="520" alt="Demo of the message-send animation">
 </p>
-
-<p align="center"><a href="https://wcqqq1214.github.io/codex-dot-send-motion/">Live demo</a></p>
 
 ```sh
 npm install codex-dot-send-motion
