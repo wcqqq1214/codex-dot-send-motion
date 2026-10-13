@@ -1,7 +1,7 @@
 <h1 align="center">Codex Dot Send Motion</h1>
 
 <p align="center">
-  <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
+  <strong>English</strong> · <a href="https://github.com/wcqqq1214/codex-dot-send-motion/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 <p align="center">
@@ -13,20 +13,25 @@
 <p align="center">A React message-send animation inspired by Codex Dot.</p>
 
 <p align="center">
-  <img src="docs/assets/preview.gif" width="520" alt="Demo of the message-send animation">
+  <img src="https://raw.githubusercontent.com/wcqqq1214/codex-dot-send-motion/main/docs/assets/preview.gif" width="520" alt="Demo of the message-send animation">
 </p>
+
+<p align="center"><a href="https://wcqqq1214.github.io/codex-dot-send-motion/">Live demo</a></p>
+
+```sh
+npm install codex-dot-send-motion
+```
 
 ## Install with an agent
 
 Paste this into your coding agent:
 
 ```text
-Integrate https://github.com/wcqqq1214/codex-dot-send-motion into this app.
-Follow docs/api.md and check React 19 + ESM compatibility.
-Clone the library separately, use its pinned toolchain, run npm ci && npm pack,
-and install the .tgz with the app's package manager.
+Install codex-dot-send-motion with this app's package manager.
+Read https://github.com/wcqqq1214/codex-dot-send-motion/blob/main/docs/api.md
+and check React 19 + ESM compatibility.
 Import 'codex-dot-send-motion/styles.css' and wire up captureSend as documented.
 Verify typecheck, build, sending, and reduced motion.
 ```
 
-[API & examples](docs/api.md) · [MIT](LICENSE)
+[API & examples](https://github.com/wcqqq1214/codex-dot-send-motion/blob/main/docs/api.md) · [MIT](https://github.com/wcqqq1214/codex-dot-send-motion/blob/main/LICENSE)
