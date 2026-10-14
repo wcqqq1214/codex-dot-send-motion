@@ -22,6 +22,10 @@
 
 ```sh
 npm install codex-dot-send-motion
+# or
+pnpm add codex-dot-send-motion
+# or
+bun add codex-dot-send-motion
 ```
 
 > [!NOTE]
